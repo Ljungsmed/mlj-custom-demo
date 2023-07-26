@@ -10,8 +10,22 @@
             },
             {
                 "name": "contentRoot",
-                "path": "/sitecore/content/demo",
-                "allowedPushOperations": "CreateUpdateAndDelete"
+                "path": "/sitecore/content",
+                "rules": [
+                    {
+                        "path": "/demo/demo/Settings/Site Grouping/demo",
+                        "scope": "ignored"
+                     },
+                     {
+                        "path": "/demo",
+                        "scope": "ItemAndDescendants",
+                        "allowedPushOperations": "createUpdateAndDelete"
+                     },
+                     {
+                        "path": "*",
+                        "scope": "ignored"
+                     }
+                ]
             },
             {
                 "name": "MediaLib",
