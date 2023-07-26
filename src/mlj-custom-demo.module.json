@@ -1,0 +1,23 @@
+{
+    "$schema": "../../.sitecore/schemas/ModuleFile.schema.json",
+    "namespace": "mlj-custom-demo",
+    "items": {
+        "includes": [
+            {
+                "name": "templates",
+                "path": "/sitecore/templates/Project/demo",
+                "allowedPushOperations": "CreateUpdateAndDelete"
+            },
+            {
+                "name": "contentRoot",
+                "path": "/sitecore/content/demo",
+                "allowedPushOperations": "CreateUpdateAndDelete"
+            },
+            {
+                "name": "MediaLib",
+                "path": "/sitecore/Media Library/Project/demo",
+                "allowedPushOperations": "CreateUpdateAndDelete"
+            }
+        ]
+    }
+}
