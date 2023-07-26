@@ -26,14 +26,15 @@ Languages:
         sitecore\Morten Ljungberg
     - ID: "729034fc-24f3-40b7-8fa4-fb49d7de20dd"
       Hint: Text
-      Value: <h1>Skate Park</h1>
+      Value: |
+        <img alt="logo" src="https://mlj-dibber-demo.sitecoresandbox.cloud/api/public/content/9cd291960e394e0caf0903d4e542c5b9?v=3329838e" width="240" height="72" />
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "70055f73-4206-4c7b-8adf-b46eaadf8f09"
+      Value: "be811188-2e28-4957-9cfe-4bc08b722089"
     - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
         sitecore\Morten Ljungberg
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20230725T165937Z
+      Value: 20230726T122328Z

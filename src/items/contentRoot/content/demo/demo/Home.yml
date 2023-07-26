@@ -67,6 +67,9 @@ Languages:
   Versions:
   - Version: 1
     Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
     - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
       Hint: __Created
       Value: 20230725T165901Z
@@ -83,7 +86,7 @@ Languages:
         sitecore\Morten Ljungberg
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "d59ec78a-65e8-4b30-bca8-4bde34ff2628"
+      Value: "9a0c02d9-9eff-4341-b10a-6aa35e2339ff"
     - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
@@ -93,4 +96,4 @@ Languages:
       Value: Home
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20230725T165954Z
+      Value: 20230726T094637Z
