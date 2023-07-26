@@ -17,6 +17,16 @@
                 "name": "MediaLib",
                 "path": "/sitecore/Media Library/Project/demo",
                 "allowedPushOperations": "CreateUpdateAndDelete"
+            },
+            {
+                "name": "renderings",
+                "path": "/sitecore/layout/Renderings/Project/demo",
+                "allowedPushOperations": "CreateUpdateAndDelete"
+            },
+            {
+                "name": "placeholders",
+                "path": "/sitecore/layout/Placeholder Settings/Project/demo",
+                "allowedPushOperations": "CreateUpdateAndDelete"
             }
         ]
     }
